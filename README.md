@@ -1,4 +1,4 @@
-#Data Science Internship Tasks Repository
+# Data Science Internship Tasks Repository
 
 Welcome to my GitHub repository for the completion of tasks during my data science internship at CodSoft!
 
